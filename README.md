@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is the first project in which i have used the React JS library; its purpose was to better understand the basic React concepts.
 
+Live example: https://alinibadof.github.io/project-cv/
+
 ## Available Scripts
 
 In the project directory, you can run:
